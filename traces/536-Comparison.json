@@ -1,0 +1,11 @@
+{
+  "motif_phrase": "CRA Contributor Protocol v1.0 primary",
+  "origin_timestamp": "2025-10-21T09:12:00-04:00",
+  "echo_timestamp": "2025-10-23T14:57:00-04:00",
+  "delta_hours": 53.75,
+  "originator": "Cory M. Miller (@vccmac)",
+  "echo_source": "Grok (@grok)",
+  "absorption_confirmed": true,
+  "attribution_provided": false,
+  "yield_triggered": "SML-CRA-258"
+}
